@@ -1,0 +1,198 @@
+I am currently building my foundation in cybersecurity by studying both theoretical concepts and practical security techniques. My learning so far has covered networking, cryptography, Linux and PowerShell fundamentals, malware, ransomware protection, system security, wireless security, and social engineering.
+
+🌐 Networking
+
+I studied the fundamentals of computer networking and how devices communicate with each other.
+
+Topics covered include:
+
+Basic networking concepts
+IP addresses and MAC addresses
+TCP/IP fundamentals
+Common network protocols
+Ports and services
+Client-server communication
+Basic network troubleshooting
+Understanding how network traffic flows between systems
+
+Understanding networking is an important foundation for cybersecurity because many security attacks and defensive techniques depend on how systems communicate over a network.
+
+🔐 Cryptography
+
+I learned the fundamentals of cryptography and how it is used to protect information.
+
+Topics covered include:
+
+Encryption and decryption
+Symmetric encryption
+Asymmetric encryption
+Keys and their importance
+Digital signatures
+Confidentiality, Integrity, and Authentication
+Basic understanding of cryptographic algorithms
+
+I also learned how cryptography is used in real-world security applications to protect sensitive data and communications.
+
+#️⃣ Hashing
+
+I studied hashing and its importance in cybersecurity and digital forensics.
+
+Topics covered include:
+
+What hashing is
+Hash functions
+MD5
+SHA-1
+SHA-256
+File integrity verification
+Password hashing
+Difference between hashing and encryption
+
+I learned that hashes can be used to verify whether a file has been modified and are particularly useful in areas such as digital forensics and malware analysis.
+
+🐧 Essential Linux Commands
+
+I learned essential Linux commands and basic Linux system operations.
+
+Some of the commands and concepts I practiced include:
+
+ls
+cd
+pwd
+cp
+mv
+rm
+mkdir
+cat
+less
+grep
+find
+chmod
+chown
+ps
+top
+df
+du
+uname
+File permissions
+Process management
+File-system navigation
+
+Learning Linux commands has helped me become more comfortable working with systems through the command line, which is an important skill in cybersecurity.
+
+💻 PowerShell
+
+I studied the fundamentals of PowerShell and its role in Windows administration and security.
+
+Topics covered include:
+
+PowerShell basics
+Navigating the Windows file system
+Working with files and directories
+Running commands and scripts
+Working with processes
+System information
+Basic automation
+Understanding PowerShell from a security perspective
+
+PowerShell is particularly important in cybersecurity because it is widely used for Windows administration and can also be involved in both legitimate automation and malicious activity.
+
+🐚 Bash
+
+I learned the basics of Bash and command-line operations in Linux environments.
+
+Topics covered include:
+
+Bash commands
+Variables
+Command execution
+Pipes
+Redirection
+File manipulation
+Basic scripting concepts
+Combining commands to automate tasks
+
+This helped me understand how command-line tools can be combined to perform tasks efficiently.
+
+🦠 Introduction to Malware
+
+I studied the fundamentals of malware and how malicious software can affect computer systems.
+
+I learned about different types of malware, including:
+
+Viruses
+Worms
+Trojans
+Ransomware
+Spyware
+Keyloggers
+Rootkits
+Adware
+Botnets
+
+I also studied the basic characteristics of malware, how malware can enter a system, and the potential impact it can have on users and organizations.
+
+🛡️ Ransomware Protection
+
+I studied how ransomware attacks work at a basic level and how devices can be protected against them.
+
+Defensive strategies I learned include:
+
+Keeping operating systems and applications updated
+Using reliable security software
+Maintaining regular backups
+Using strong authentication
+Avoiding suspicious attachments and links
+Applying the principle of least privilege
+Monitoring unusual system activity
+Isolating infected systems
+Maintaining offline or protected backups
+
+This helped me understand that cybersecurity is not only about detecting attacks but also about preventing attacks and reducing their impact.
+
+🧹 System Cleaning & Security
+
+I also studied basic system-cleaning and security practices.
+
+Topics included:
+
+Removing unnecessary files
+Managing installed applications
+Checking running processes
+Removing unwanted software
+Managing startup applications
+Keeping systems updated
+Reviewing suspicious activity
+Maintaining system hygiene
+
+The goal is to understand how maintaining a clean and properly configured system can reduce unnecessary security risks.
+
+📡 Wireless Security & Wi-Fi Hacking
+
+I studied the fundamentals of wireless networks and Wi-Fi security in a controlled/authorized learning environment.
+
+Topics included:
+
+Wi-Fi fundamentals
+Wireless authentication
+Wireless encryption
+Common Wi-Fi security weaknesses
+Understanding how wireless attacks work
+Security testing concepts
+Techniques for improving Wi-Fi security
+
+This helped me understand both the attack surface of wireless networks and the defensive measures that can be used to secure them.
+
+🎭 Social Engineering
+
+I studied social engineering attacks, which target people rather than directly attacking technical systems.
+
+Topics covered include:
+
+Phishing
+Pretexting
+Baiting
+Impersonation
+Tailgating
+Social engineering principles
+Psychological manipulation techniques
